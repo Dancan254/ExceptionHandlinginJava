@@ -1,5 +1,3 @@
-Sure, here's the revised content styled for a GitHub README:
-
 ---
 
 # Exception Handling in Java
